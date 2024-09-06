@@ -11,23 +11,23 @@ h1{
     font-weight: 600;
 }
 
- li}
-
-
-}    font-family: Arial, Helvetica, sans-serif;
+li{
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     font-weight:500;
+
 }
 
-#Spider Man{
+#SpiderMan{
     height: 200px;
+    width: 155px;
 }
 
-#Pitch Perfect{
-    height: 250px;
+#PitchPerfect{
+    height: 230px;
 }
-#Harry Potter{
-    height: 160px;
+#HarryPotter{
+    height: 240px;
 
 }
 
